@@ -1,3 +1,2 @@
 # Remote Repositories Breakdown
-test.html contains sample code
-Some additional comment
+test.html contains sample code for... testing purposes
